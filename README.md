@@ -7,7 +7,7 @@ This R script visualizes trends in **large cardamom production**, **productive a
 ## 📁 Files
 
 - `large_cardamom_plot.R`: R script to read, reshape, and visualize the data.
-- `Year wise production of LC.xlsx`: Excel file containing year-wise data on production, area, and yield. *(Optional — include if you wish to share raw data)*
+- `Year wise value of LC in Nepal.xlsx`: Excel file containing year-wise data on production, area, and yield. *(Optional — include if you wish to share raw data)*
 
 ---
 
@@ -32,7 +32,7 @@ library(ggplot2)
 library(readxl)
 
 #Loading ecxel from my computer
-LC <- read_excel("C:\Users\Admin\Desktop\Year wise production of LC")
+LC <- read_excel("C:\Users\Admin\Desktop\Year wise value of LC in Nepal")
 #Commuting max values
 max_prod <- max(LC$production)
 max_yield <- max(LC$yield)
