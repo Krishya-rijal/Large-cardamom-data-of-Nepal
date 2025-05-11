@@ -92,4 +92,6 @@ LC %>%
 
 
 Result:
-         ![Trend of Large cardamom in Nepal](https://github.com/user-attachments/assets/0568a1a5-792b-455f-b142-a6ddf0c43640)
+         ![Trend of Large cardamom in Nepal]
+
+			************https://github.com/user-attachments/assets/0568a1a5-792b-455f-b142-a6ddf0c43640************
