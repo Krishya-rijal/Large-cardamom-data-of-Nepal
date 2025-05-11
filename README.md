@@ -24,10 +24,7 @@ This R script visualizes trends in **large cardamom production**, **productive a
 - Custom **legend**, **themes**, and **axis formatting** for publication-ready output.
 
 ---
-
-## 📦 Dependencies
-
-This project uses the following R packages:
+Script:
 
 ```r
 library(tidyverse)
