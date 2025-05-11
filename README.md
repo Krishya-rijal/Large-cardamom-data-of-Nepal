@@ -82,7 +82,7 @@ LC %>%
                                   color = "black")) +
   theme(legend.text = element_text(face = "bold")) +
   scale_fill_manual(
-    values = c("production" = "blue", "productive area" = "gray"),		#Sets color and labels of                                                                             #production, productive area 
+    values = c("production" = "blue", "productive area" = "gray"),		#Sets color and labels of                                                                             					#production, productive area 
     labels = c("production" = "Production (Mt)", 
 	     "productive area" = "Productive Area (ha)")) +
   scale_color_manual(                                                #Sets color and label of yield
@@ -91,4 +91,5 @@ LC %>%
 
 
 
-
+Result:
+         ![Trend of Large cardamom in Nepal](https://github.com/user-attachments/assets/0568a1a5-792b-455f-b142-a6ddf0c43640)
